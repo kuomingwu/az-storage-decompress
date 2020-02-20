@@ -6,4 +6,5 @@
   STORAGE_CONTAINER = <upload container>
   STORAGE_KEY = <upload key>
   TARGET_URL = <compressed file>
- 3. node start.js
+ 3. create folder name target
+ 4. node start.js
